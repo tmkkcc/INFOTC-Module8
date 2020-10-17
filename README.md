@@ -1,2 +1,2 @@
-# INOTC Module8
+# INFOTC Module8
  Fizzbuzz project
